@@ -30,6 +30,10 @@ print_r($arregloNumerico);
 echo "<br/>";
 print_r($carros);
 
+echo "<br/>";
+echo "<br/>";
+echo "fin de la clase de hoy haciendo un cambio con git";
+
 
 
 ?>
